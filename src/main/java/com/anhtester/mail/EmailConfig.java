@@ -23,7 +23,7 @@ public class EmailConfig {
     public static final String PORT = "587";//465 587
 
     public static final String FROM = "engineer_sumit@yahoo.com";//engineer_sumit@yahoo.com
-    public static final String PASSWORD = "oqedkdqdlsvndgvq";
+    public static final String PASSWORD = ""; //use ur own email passkey
 
     public static final String[] TO = {"Sumit.engineer@gmail.com"};
     public static final String SUBJECT = FrameworkConstants.PROJECT_NAME;
